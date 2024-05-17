@@ -21,7 +21,7 @@
 
 | Adjustment |
 | -------- |
-| [Fedora Budgie](https://github.com/samwhelp/fedora-budgie-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
+| [Fedora Budgie](https://github.com/samwhelp/fedora-budgie-adjustment/tree/main/prototype/main) |
 
 
 
