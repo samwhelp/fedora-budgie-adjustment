@@ -51,7 +51,7 @@ main_config_install () {
 
 	gedit_config_install
 
-	tilix_config_install
+	gnome_terminal_config_install
 
 
 
