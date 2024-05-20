@@ -62,10 +62,10 @@
 
 
 ##
-## Load: Setting / Module / Tilix
+## Load: Setting / Module / Gnome-Terminal
 ##
 
-. "${THE_MAIN_EXT_SETTING_MODULE_DIR_PATH}/tilix.sh"
+. "${THE_MAIN_EXT_SETTING_MODULE_DIR_PATH}/gnome-terminal.sh"
 
 
 ##

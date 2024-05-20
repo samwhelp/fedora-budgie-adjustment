@@ -51,7 +51,7 @@ main_prototype_install () {
 
 	gedit_prototype_install
 
-	tilix_prototype_install
+	gnome_terminal_prototype_install
 
 	budgie_wallpaper_main_prototype_install
 

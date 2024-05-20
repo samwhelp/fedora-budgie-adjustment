@@ -13,7 +13,7 @@
 #TODO: use "gconftool-2 -g /desktop/gnome/applications/terminal/exec"
 
 
-#gnome-terminal --working-directory="$GEDIT_CURRENT_DOCUMENT_DIR" &
+gnome-terminal --working-directory="$GEDIT_CURRENT_DOCUMENT_DIR" &
 
 
 #xfce4-terminal --working-directory="$GEDIT_CURRENT_DOCUMENT_DIR" &
@@ -34,4 +34,4 @@
 #x-terminal-emulator --working-directory="$GEDIT_CURRENT_DOCUMENT_DIR" &
 
 
-tilix --working-directory="$GEDIT_CURRENT_DOCUMENT_DIR" &
+#tilix --working-directory="$GEDIT_CURRENT_DOCUMENT_DIR" &

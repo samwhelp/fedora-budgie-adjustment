@@ -500,8 +500,8 @@ budgie_config_keybind_custom () {
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/name "'Terminal'"
 
 	util_error_echo
-	util_error_echo "dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/command \"'tilix'\""
-	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/command "'tilix'"
+	util_error_echo "dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/command \"'gnome-terminal'\""
+	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/command "'gnome-terminal'"
 
 	util_error_echo
 	util_error_echo "dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal/binding \"'<Alt>Return'\""
@@ -522,8 +522,8 @@ budgie_config_keybind_custom () {
 	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/name "'Terminal-1'"
 
 	util_error_echo
-	util_error_echo "dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/command \"'tilix'\""
-	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/command "'tilix'"
+	util_error_echo "dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/command \"'gnome-terminal'\""
+	dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/command "'gnome-terminal'"
 
 	util_error_echo
 	util_error_echo "dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/terminal-1/binding \"'<Shift><Alt>a'\""

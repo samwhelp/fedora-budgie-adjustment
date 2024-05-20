@@ -51,7 +51,7 @@ main_asset_install () {
 
 	gedit_asset_install
 
-	tilix_asset_install
+	gnome_terminal_asset_install
 
 	budgie_wallpaper_main_asset_install
 

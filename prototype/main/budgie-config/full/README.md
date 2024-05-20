@@ -63,7 +63,7 @@
 | part / [budgie-keybind-main](../part/budgie-keybind-main) |
 | part / [budgie-keybind-custom](../part/budgie-keybind-custom) |
 | tool / [nemo](../../tool-config/part/nemo) |
-| tool / [tilix](../../tool-config/part/tilix) |
+| tool / [gnome-terminal](../../tool-config/part/gnome-terminal) |
 | tool / [gedit](../../tool-config/part/gedit) |
 
 
@@ -78,7 +78,7 @@
 | part / [budgie-keybind-main](../part/budgie-keybind-main) |
 | part / [budgie-keybind-custom](../part/budgie-keybind-custom) |
 | tool / [nemo](../../tool-config/part/nemo) |
-| tool / [tilix](../../tool-config/part/tilix) |
+| tool / [gnome-terminal](../../tool-config/part/gnome-terminal) |
 | tool / [gedit](../../tool-config/part/gedit) |
 | part / [budgie-wallpaper-main](../part/budgie-wallpaper-main) |
 
@@ -94,7 +94,7 @@
 | part / [budgie-keybind-main](../part/budgie-keybind-main) |
 | part / [budgie-keybind-custom](../part/budgie-keybind-custom) |
 | tool / [nemo](../../tool-config/part/nemo) |
-| tool / [tilix](../../tool-config/part/tilix) |
+| tool / [gnome-terminal](../../tool-config/part/gnome-terminal) |
 | tool / [gedit](../../tool-config/part/gedit) |
 | part / [budgie-wallpaper-main](../part/budgie-wallpaper-main) |
 | part / [budgie-theme-light](../part/budgie-theme-light) |
@@ -111,7 +111,7 @@
 | part / [budgie-keybind-main](../part/budgie-keybind-main) |
 | part / [budgie-keybind-custom](../part/budgie-keybind-custom) |
 | tool / [nemo](../../tool-config/part/nemo) |
-| tool / [tilix](../../tool-config/part/tilix) |
+| tool / [gnome-terminal](../../tool-config/part/gnome-terminal) |
 | tool / [gedit](../../tool-config/part/gedit) |
 | part / [budgie-wallpaper-main](../part/budgie-wallpaper-main) |
 | part / [budgie-theme-dark](../part/budgie-theme-dark) |
