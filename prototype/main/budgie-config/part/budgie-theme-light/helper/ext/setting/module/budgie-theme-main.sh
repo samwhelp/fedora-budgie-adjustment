@@ -168,8 +168,8 @@ budgie_theme_main_settings_set_all () {
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.desktop.interface gtk-theme 'Pocillo-light'"
-	gsettings set org.gnome.desktop.interface gtk-theme 'Pocillo-light'
+	util_error_echo "gsettings set org.gnome.desktop.interface gtk-theme 'Materia-light'"
+	gsettings set org.gnome.desktop.interface gtk-theme 'Materia-light'
 
 
 	util_error_echo
