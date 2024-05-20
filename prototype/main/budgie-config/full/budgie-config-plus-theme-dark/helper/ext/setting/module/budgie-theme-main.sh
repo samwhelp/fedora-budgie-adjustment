@@ -142,8 +142,8 @@ budgie_theme_main_settings_set_all () {
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.desktop.wm.preferences theme 'Pocillo-dark'"
-	gsettings set org.gnome.desktop.wm.preferences theme 'Pocillo-dark'
+	util_error_echo "gsettings set org.gnome.desktop.wm.preferences theme 'Materia-dark'"
+	gsettings set org.gnome.desktop.wm.preferences theme 'Materia-dark'
 
 
 
@@ -173,8 +173,8 @@ budgie_theme_main_settings_set_all () {
 
 
 	util_error_echo
-	util_error_echo "gsettings set org.gnome.desktop.interface icon-theme 'Yaru'"
-	gsettings set org.gnome.desktop.interface icon-theme 'Pocillo'
+	util_error_echo "gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark'"
+	gsettings set org.gnome.desktop.interface icon-theme 'Papirus-Dark'
 
 
 	util_error_echo

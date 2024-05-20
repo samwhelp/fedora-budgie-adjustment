@@ -1,7 +1,7 @@
 
 
 [org.gnome.desktop.wm.preferences]
-theme='Pocillo-light'
+theme='Materia-light'
 
 
 [org.gnome.desktop.interface]
@@ -9,7 +9,7 @@ cursor-theme='DMZ-White'
 cursor-size=24
 gtk-key-theme='Default'
 gtk-theme='Materia-light'
-icon-theme='Pocillo'
+icon-theme='Papirus-Light'
 color-scheme='default'
 gtk-color-scheme=''
 
