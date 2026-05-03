@@ -32,6 +32,12 @@
 | [Tool Config](https://github.com/samwhelp/fedora-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
+| Style Management |
+| ---------------- |
+| [make-budgie-style](https://github.com/samwhelp/make-budgie-style) |
+| [demo-style-select](https://github.com/samwhelp/note-about-menu-applet/tree/gh-pages/_demo/prototype/menu-applet/demo-application/demo-style-select) |
+
+
 
 
 ## Link
@@ -43,3 +49,9 @@
 | [Ubuntu Adjustment](https://samwhelp.github.io/ubuntu-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-adjustment) |
 | [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
 
+
+
+
+## Samwhelp
+
+* [GitHub](https://github.com/samwhelp)
